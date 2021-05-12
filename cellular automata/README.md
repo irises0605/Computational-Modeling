@@ -5,7 +5,7 @@ This project is about implementing cellular automata simulations on a SIR Model,
 + infecteds (I) that have the disease and can spread it to others, and 
 + recovereds (R) that have recovered from the disease and are immune to further infection. 
 
-# Model 1: A modified version of Module 14.6 Project 1
+# Model 1: 
 Suppose an individual is at each grid point. An individual can be well and susceptible (value = 0) to a disease, sick with the disease that has two phases (values 1 to 2), or immune (values 3 to 7). The infection lasts exactly 2 days, and immunity lasts exactly 5 days before the individual becomes susceptible again.
 
 +	susceptible: value = 0
