@@ -17,7 +17,7 @@ This project simulates 2D free fall motions using Euler's simulation RK4 simulat
 4.	RK4 simulation of a ball being dropped from 400m
 
 ## [Predatory Prey Model with RK4](https://github.com/irises0605/Computational-Modeling/tree/main/predator-prey)
-This project simulates 2D free fall motions using RK4 Simulation techniques. There are 4 models contained in this project:
+This project simulates 2D free fall motions using RK4 Simulation techniques. There are 2 models contained in this project:
 1.	Basic Imlementation of Predator-Prey Model 
 2.	Revised Predator-Prey Model with other interactions between species
 
